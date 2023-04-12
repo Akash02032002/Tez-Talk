@@ -52,7 +52,7 @@ Blockchain can solve this problem since it is decentralized. This is an example 
 
 ## Developers Tutorial
 
-first you need to create a smart contract using https://smartpy.io/ide , please follow the [medium post building your first dapp on tezos](https://medium.com/coinmonks/building-your-first-dapp-on-tezos-part-1-writing-smart-contract-on-smartpy-d7cdf27476f9)
+first you need to create a smart contract using https://smartpy.dev/ide .
 
 Here is my smart contract (testnet): [KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd]https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations
 
@@ -66,6 +66,7 @@ for [ghostnet](https://tez-talk.vercel.app//) use branch: `main`
 ```bash
 $ git clone https://github.com/gamifications/tztweet
 $ cd tztweet
+
 # install dependencies
 $ npm install
 $ npm install --save nuxt
@@ -82,6 +83,9 @@ $ npm start
 <img width="505" alt="f" src="https://user-images.githubusercontent.com/84145371/231584340-5198a4e6-290c-4ea4-b216-1de4b8478ab7.png">
 
 <img width="514" alt="g" src="https://user-images.githubusercontent.com/84145371/231584368-3eaba6b7-0d80-442e-afc2-b8de6d5f5578.png">
+
+![5](https://user-images.githubusercontent.com/84145371/231586319-98dfae23-4a8b-4910-8e92-63b5c9ae8b2e.jpeg)
+
 
 <img width="503" alt="h" src="https://user-images.githubusercontent.com/84145371/231584411-6357ae30-7f41-4208-9d22-ef94876f052b.png">
 
