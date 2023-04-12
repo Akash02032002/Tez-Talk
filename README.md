@@ -89,3 +89,7 @@ $ npm start
 
 <img width="503" alt="h" src="https://user-images.githubusercontent.com/84145371/231584411-6357ae30-7f41-4208-9d22-ef94876f052b.png">
 
+### THE END ###
+
+### THANK YOU FOR VISIT  ###
+
