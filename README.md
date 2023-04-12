@@ -8,9 +8,9 @@ This dapp is heavily inspired from:
 
 ## Quick Demos
 
-### [Demo on Mainnet](https://tztweet.xyz)
-### [Demo on Florencenet Testnet](https://test.tztweet.xyz)
-### [Demo on YouTube](https://www.youtube.com/watch?v=YyBY7A2tDoA)
+### [Demo on Ghostnet](https://tez-talk.vercel.app/)
+### [Demo on Ghostnet Testnet](https://tez-talk.vercel.app/)
+### [Demo on YouTube](https://tez-talk.vercel.app/)
 
 
 ## The problem
@@ -23,13 +23,13 @@ Blockchain can solve this problem since it is decentralized. This is an example 
 
 first you need to create a smart contract using https://smartpy.io/ide , please follow the [medium post building your first dapp on tezos](https://medium.com/coinmonks/building-your-first-dapp-on-tezos-part-1-writing-smart-contract-on-smartpy-d7cdf27476f9)
 
-Here is my smart contract (testnet): [KT1CnJWdLMEcUsRvuXLxLC6LNysHHZAZx8to](https://better-call.dev/florencenet/KT1CnJWdLMEcUsRvuXLxLC6LNysHHZAZx8to/operations)
+Here is my smart contract (testnet): [KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd]https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations
 
 Now clone this repo, update the contract address with yours in `pages/index.vue` and install dependencies and build it.
 
-for [Florencenet Testnet](https://test.tztweet.xyz) use branch: `florencenet`
+for [Ghostnet Testnet](https://tez-talk.vercel.app/) use branch: `ghostnnet`
 
-for [mainnet](https://tztweet.xyz) use branch: `main`
+for [ghostnet](https://tez-talk.vercel.app//) use branch: `main`
 
 
 ```bash
