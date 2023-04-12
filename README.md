@@ -1,4 +1,12 @@
-# Tez-Talk
+# I2C2 Hackthon - 2023
+
+## TEZ TALK
+
+<img width="251" alt="b" src="https://user-images.githubusercontent.com/84145371/231584148-6aa4c00b-ad52-4393-bc2c-731698835383.png">
+
+<img width="127" alt="c" src="https://user-images.githubusercontent.com/84145371/231584189-f2ba7260-ff64-46b1-bd45-e963edda9857.png">
+
+<img width="960" alt="a" src="https://user-images.githubusercontent.com/84145371/231584006-b1a8ab66-16f8-474e-a0b9-e9cf591cdf96.png">
 
 It is an NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
 
@@ -7,6 +15,33 @@ It is an NFT DApp for posting tweets anonymously and also getting public support
 ### [LIVE Demo WEBSITE](https://tez-talk.vercel.app/)
 ### [Demo on Ghostnet Testnet](https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations)
 ### [Demo on YouTube](https://www.youtube.com/watch?v=qzdak9Fi_WA)
+### [Docs of TEZ TALK](https://drive.google.com/file/d/1dq1S1zAgtGN95K9lu77Ph1is5suFmaT2/view?usp=drivesdk)
+
+## Contract Address info
+
+ Contract Address :- { KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd }
+ 
+
+https://smartpy.dev/wallet/smart-contracts?addAddress=KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd
+
+
+https://smartpy.dev/explorer?address=KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd
+
+
+https://ghostnet.tzkt.io/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations/
+
+
+https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations
+
+
+https://ghost.tzstats.com/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd
+
+
+https://ghostnet.smartpy.io
+
+
+https://smartpy.dev/ide
+
 
 
 ## The problem
@@ -33,10 +68,20 @@ $ git clone https://github.com/gamifications/tztweet
 $ cd tztweet
 # install dependencies
 $ npm install
-# npm install --save nuxt
+$ npm install --save nuxt
 
 # build for production and launch server
 $ npm run generate
 $ npm start
 ```
+<img width="947" alt="d" src="https://user-images.githubusercontent.com/84145371/231584305-c8104e7e-6673-407f-b59f-bf6987e11ba2.png">
+
+
+<img width="575" alt="e" src="https://user-images.githubusercontent.com/84145371/231584319-ed7659ed-64b4-4767-b682-c2061adbbf3d.png">
+
+<img width="505" alt="f" src="https://user-images.githubusercontent.com/84145371/231584340-5198a4e6-290c-4ea4-b216-1de4b8478ab7.png">
+
+<img width="514" alt="g" src="https://user-images.githubusercontent.com/84145371/231584368-3eaba6b7-0d80-442e-afc2-b8de6d5f5578.png">
+
+<img width="503" alt="h" src="https://user-images.githubusercontent.com/84145371/231584411-6357ae30-7f41-4208-9d22-ef94876f052b.png">
 
