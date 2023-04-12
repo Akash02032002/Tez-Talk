@@ -1,6 +1,6 @@
-# Tezos Tweet
+# Tez-Talk
 
-NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
+It is an NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
 
 This dapp is heavily inspired from:
 + Tutorial [Build your first DApp on Tezos in 2-4 hours](https://styts.com/your-first-tezos-dapp) 
