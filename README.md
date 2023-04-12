@@ -2,15 +2,11 @@
 
 It is an NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
 
-This dapp is heavily inspired from:
-+ Tutorial [Build your first DApp on Tezos in 2-4 hours](https://styts.com/your-first-tezos-dapp) 
-+  [medium post building your first dapp on tezos](https://medium.com/coinmonks/building-your-first-dapp-on-tezos-part-1-writing-smart-contract-on-smartpy-d7cdf27476f9)
-
 ## Quick Demos
 
-### [Demo on Ghostnet](https://tez-talk.vercel.app/)
-### [Demo on Ghostnet Testnet](https://tez-talk.vercel.app/)
-### [Demo on YouTube](https://tez-talk.vercel.app/)
+### [LIVE Demo WEBSITE](https://tez-talk.vercel.app/)
+### [Demo on Ghostnet Testnet](https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations)
+### [Demo on YouTube](https://www.youtube.com/watch?v=qzdak9Fi_WA)
 
 
 ## The problem
@@ -37,6 +33,7 @@ $ git clone https://github.com/gamifications/tztweet
 $ cd tztweet
 # install dependencies
 $ npm install
+# npm install --save nuxt
 
 # build for production and launch server
 $ npm run generate
