@@ -15,10 +15,10 @@ class TzTweet(sp.Contract):
         self.data.authors.push(params.a)
 
 # Tests
-@sp.add_test(name = "Tz Tweet")
+@sp.add_test(name = "Tez_Talk")
 def test1():
     scenario = sp.test_scenario()
-    scenario.h1("Welcome to Tz Tweet")
+    scenario.h1("Welcome to Tez Talk")
     c1 = TzTweet()
     scenario += c1
     scenario += c1.add_entry(a = 'alice', e = 'hello from alice')
