@@ -1,10 +1,17 @@
-# TEZINDIA BUILDERCAMP 1.0  Final Project.
 
-# TEZINDIA FELLOWSHIP - 2023
+# TEZINDIA BuilderCamp 1.0 FELLOWSHIP - 2023 Completion Certification
 
-# WEEK -"5&6" FINAL PROJECT OF TezIndia Fellowship-23
+![TezosIndia BuilderCamp Certification 2023](https://github.com/Akash02032002/Tez-Talk/assets/84145371/1cde03ab-852b-499e-ac8b-87f4a7d3ed16)
 
-## TEZ TALK
+
+## TEZINDI[TezIndiaBuilderCamp Certification.pdf](https://github.com/Akash02032002/Tez-Talk/files/12302825/TezIndiaBuilderCamp.Certification.pdf)
+
+
+## TEZINDIA BUILDERCAMP  1.0 Fellowship -2023  Final Project ( TEZ TALK ).
+
+## WEEK -"5&6" FINAL PROJECT OF TezIndia Fellowship-23
+
+##  << TEZ TALK >>
 
 <img width="251" alt="b" src="https://user-images.githubusercontent.com/84145371/231584148-6aa4c00b-ad52-4393-bc2c-731698835383.png">
 
