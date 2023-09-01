@@ -1,4 +1,5 @@
 <template>
+  <div class="background-container">
   <v-row justify="center" align="center" color="#69ff3e">
     <v-col cols="12" sm="8" md="6" :loading="loading">
       <v-alert v-if="error" dismissible type="error">
@@ -53,6 +54,7 @@
       </v-progress-circular>
     </v-col>
   </v-row>
+</div>
 </template>
 
 <script>
@@ -164,3 +166,22 @@ export default {
   }
 }
 </script>
+
+<!-- <style scoped>
+        background-image: url('winter.png');
+        background-position: center center;
+        background-repeat:  no-repeat;
+        background-attachment: fixed;
+        background-size:  cover;
+</style> -->
+
+<style scoped>
+.background-container {
+  /* Use the URL of your background image */
+  background-image: url('./lake.png');
+  background-size: cover; /* Adjust as needed */
+  background-position: center;
+  background-repeat:  no-repeat;
+  background-attachment: fixed; /* Adjust as needed */
+}
+</style>

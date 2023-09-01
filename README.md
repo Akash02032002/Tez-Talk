@@ -1,15 +1,9 @@
 
-# TEZINDIA BuilderCamp 1.0 FELLOWSHIP - 2023 Completion Certification
+# TEZ ASIA HACKTHON 2023
 
-![TezosIndia BuilderCamp Certification 2023](https://github.com/Akash02032002/Tez-Talk/assets/84145371/1cde03ab-852b-499e-ac8b-87f4a7d3ed16)
+## THINK, LEARN, BUILD, TEZOS
 
-
-## TEZINDI[TezIndiaBuilderCamp Certification.pdf](https://github.com/Akash02032002/Tez-Talk/files/12302825/TezIndiaBuilderCamp.Certification.pdf)
-
-
-## TEZINDIA BUILDERCAMP  1.0 Fellowship -2023  Final Project ( TEZ TALK ).
-
-## WEEK -"5&6" FINAL PROJECT OF TezIndia Fellowship-23
+## Duration "16 July to 31 August  -  2023"
 
 ##  << TEZ TALK >>
 
@@ -17,7 +11,6 @@
 
 <img width="127" alt="c" src="https://user-images.githubusercontent.com/84145371/231584189-f2ba7260-ff64-46b1-bd45-e963edda9857.png">
 
-<img width="960" alt="a" src="https://user-images.githubusercontent.com/84145371/231584006-b1a8ab66-16f8-474e-a0b9-e9cf591cdf96.png">
 
 It is an NFT DApp for posting tweets anonymously and also getting public support in the form of anonymous donations which will be secured on Tezos Blockchain.
 
@@ -27,6 +20,13 @@ It is an NFT DApp for posting tweets anonymously and also getting public support
 ### [Demo on Ghostnet Testnet](https://better-call.dev/ghostnet/KT1DwzJoHV3mZMEZybunYY83QbsRmekRK9yd/operations)
 ### [Demo on YouTube](https://www.youtube.com/watch?v=qzdak9Fi_WA)
 ### [Docs of TEZ TALK](https://drive.google.com/file/d/1dq1S1zAgtGN95K9lu77Ph1is5suFmaT2/view?usp=drivesdk)
+
+
+## Team Info:-
+## Team Name : Akashverse
+## Team Member : Akash Kumar
+## Email : aksahkumar02032002@gmail.com
+
 
 ## Contract Address info
 
